@@ -1,0 +1,53 @@
+
+header {
+    background-color: plum;
+}
+h1 {
+    color:white;
+    border: black;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+}
+
+header {
+    background-color: white;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+    text-align: center;
+  }
+  
+  nav {
+    margin: 0;
+    padding: 20px 0;
+  }
+  
+  nav li {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    display: inline-block;
+    width: 80px;
+  }
+
+p {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background-color:plum;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 40px;
+    }
+
+  .navigation ul {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-size: 15px;
+  }
